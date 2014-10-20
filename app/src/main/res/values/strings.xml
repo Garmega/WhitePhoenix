@@ -4,4 +4,17 @@
     <string name="app_name">WhitePhoenix</string>
     <string name="title_activity_world_map">Map</string>
 
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+    <string name="random_action">Some Action</string>
+
+    <!-- List of strings for the WorldActivityMap navigation drawer -->
+    <string-array
+        name="world_map_drawer">
+        <item>Character</item>
+        <item>Inventory</item>
+        <item>Quests</item>
+        <item>Settings</item>
+    </string-array>
+
 </resources>
